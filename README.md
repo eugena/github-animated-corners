@@ -1,21 +1,13 @@
-### GitHub Corners
+GitHub Animated Corners
+=======================
 
-Phew, GitHub is over ten years old now... and is unquestionably synonymous with open source. After 10 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
+Inspired by [Tom Preston-Werner's](https://github.com/blog/273-github-ribbons) and [Tim Holman's](https://tholman.com/github-corners/) works, I decided to create a few more variants of animated corners with octocat for my projects. But I will be glad if this work is useful for your pages too.
 
-By using SVG, these corners can be clean and sharp. Any color, and size. As well as have a little character and interactivity!
+These variants do not require JavaScript and additional files. They use only vector paths so don't lose quality when zooming.
 
-You can build your own with the [SVGs](https://github.com/tholman/github-corners/tree/master/svg), copy some of the pre-defined code, or just change the `fill` and `color` values on the main `<svg>` element.
+Just choose a variant [here](https://eugena.github.io/github-animated-corners), change colors if you need (`fill` and `color` values on the main `svg` element) and add code to your page or website.
 
-### Screenshot
+License
+--------
+[The MIT License](LICENSE)
 
-You can see the page here... but I really recommend [visiting the page](http://tholman.com/github-corners) to see the small animations that really make them come to life.
-
-![Here's the page](https://i.imgur.com/703iLiS.png)
-
-### License/Acknowledgements
-
-Naturally, these aren't built by GitHub, or endorsed by them.
-
-Copyright (c) 2016 Tim Holman - http://tholman.com
-
-[The MIT License](https://github.com/tholman/github-corners/blob/master/license.md)
