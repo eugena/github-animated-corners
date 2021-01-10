@@ -1,3 +1,5 @@
+![GitHub Animated Corners](https://eugena.github.io/github-animated-corners/github-animated-corners-og.png)
+
 GitHub Animated Corners
 =======================
 
