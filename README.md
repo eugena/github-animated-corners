@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### GitHub Corners
 
-You can use the [editor on GitHub](https://github.com/eugena/github-animated-corners/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Phew, GitHub is over ten years old now... and is unquestionably synonymous with open source. After 10 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By using SVG, these corners can be clean and sharp. Any color, and size. As well as have a little character and interactivity!
 
-### Markdown
+You can build your own with the [SVGs](https://github.com/tholman/github-corners/tree/master/svg), copy some of the pre-defined code, or just change the `fill` and `color` values on the main `<svg>` element.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Screenshot
 
-```markdown
-Syntax highlighted code block
+You can see the page here... but I really recommend [visiting the page](http://tholman.com/github-corners) to see the small animations that really make them come to life.
 
-# Header 1
-## Header 2
-### Header 3
+![Here's the page](https://i.imgur.com/703iLiS.png)
 
-- Bulleted
-- List
+### License/Acknowledgements
 
-1. Numbered
-2. List
+Naturally, these aren't built by GitHub, or endorsed by them.
 
-**Bold** and _Italic_ and `Code` text
+Copyright (c) 2016 Tim Holman - http://tholman.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eugena/github-animated-corners/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[The MIT License](https://github.com/tholman/github-corners/blob/master/license.md)
