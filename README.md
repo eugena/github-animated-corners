@@ -7,7 +7,7 @@ Inspired by [Tom Preston-Werner's](https://github.com/blog/273-github-ribbons) a
 
 These variants do not require JavaScript and additional files. They use only [SVG](https://github.com/eugena/github-animated-corners/tree/main/svg) vector paths so don't lose quality when zooming.
 
-Please watch the [Live Demo](https://eugena.github.io/github-animated-corners) to choose a variant for your page or website.
+Please watch the :eye: [Live Demo](https://eugena.github.io/github-animated-corners) to choose a variant for your page or website.
 
 License
 --------
