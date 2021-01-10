@@ -1,0 +1,12 @@
+.github-corner:hover .octo-ear {
+    animation: octocat-twitch 560ms ease-in-out;
+}
+@keyframes octocat-twitch {
+    0%, 100% {transform: rotate(0deg);}
+    25%, 75% {transform: rotate(6deg);}
+    50% {transform: rotate(-4deg) scale(1);}
+}
+@media (max-width: 500px) {
+    .github-corner:hover .octo-ear {animation: none;}
+    .github-corner .octo-ear {animation: octocat-twitch 560ms ease-in-out;}
+}
