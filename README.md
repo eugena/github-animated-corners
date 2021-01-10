@@ -15,7 +15,9 @@ License
 
 Donate
 -------
-If you like :sparkling_heart: this project, please support it: [![Donate](https://img.shields.io/badge/Donate-PayPal-00aeff.svg)](https://paypal.me/yaeugena)
+If you like :sparkling_heart: this project, please support it: 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00aeff.svg)](https://paypal.me/yaeugena)
 [![Donate](https://img.shields.io/badge/Donate-Yandex.Money%20|%20Yumoney-ffd500.svg)](https://yoomoney.ru/to/41001667292962)
 
 
