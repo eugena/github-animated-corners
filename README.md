@@ -5,7 +5,7 @@ Inspired by [Tom Preston-Werner's](https://github.com/blog/273-github-ribbons) a
 
 These variants do not require JavaScript and additional files. They use only vector paths so don't lose quality when zooming.
 
-Just choose a variant [here](https://eugena.github.io/github-animated-corners), change colors if you need (`fill` and `color` values on the main `svg` element) and add code to your page or website.
+Please watch the [Live Demo](https://eugena.github.io/github-animated-corners) to choose a variant for your page or website.
 
 License
 --------
