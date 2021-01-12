@@ -15,6 +15,8 @@ License
 
 By me a coffee
 --------------
-If you like this project, please [![Buy Me a Coffee Badge](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ff813f?style=flat-square&labelColor=ff813f&logo=ko-fi&logoColor=white&link=https://www.buymeacoffee.com/eugena)](https://www.buymeacoffee.com/eugena)
+If you like 🧡 this project: 
+
+[![Buy Me a Coffee Badge](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ff813f?style=flat-square&labelColor=ff813f&logo=ko-fi&logoColor=white&link=https://www.buymeacoffee.com/eugena)](https://www.buymeacoffee.com/eugena)
 
 
