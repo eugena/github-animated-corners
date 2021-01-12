@@ -13,11 +13,8 @@ License
 --------
 [The MIT License](LICENSE)
 
-Donate
--------
-If you like :sparkling_heart: this project, please support it: 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-00aeff.svg)](https://paypal.me/yaeugena)
-[![Donate](https://img.shields.io/badge/Donate-Yandex.Money%20|%20Yumoney-ffd500.svg)](https://yoomoney.ru/to/41001667292962)
+By me a coffee
+--------------
+If you like this project, please [![Buy Me a Coffee Badge](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ff813f?style=flat-square&labelColor=ff813f&logo=ko-fi&logoColor=white&link=https://www.buymeacoffee.com/eugena)](https://www.buymeacoffee.com/eugena)
 
 
