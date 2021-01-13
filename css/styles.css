@@ -3,5 +3,6 @@ body{font-family:Nunito}
 .bg-dark{background:#0f3447!important}
 .demo{height:180px;position:relative;left:5px;overflow:hidden}
 .card{overflow:hidden;margin-top:1em}
+.ml-m5{margin-left:-5px}
 textarea{border:1px solid #eee;outline:0;position:relative;right:3px;font-family:"Courier New",monospace;font-size:11px}
 footer{width:100%;margin-top:25px;margin-bottom:100px;background:#F3F3F3;min-height:50px;padding:25px 15px;text-align:center;height:auto;line-height:30px}
