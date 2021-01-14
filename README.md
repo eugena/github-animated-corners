@@ -9,6 +9,8 @@ These variants do not require JavaScript and additional files. They use only [SV
 
 Please watch the :eye: [Live Demo](https://eugena.github.io/github-animated-corners) to choose a variant for your page or website.
 
+This project is not sponsored by GitHub.
+
 License
 --------
 [The MIT License](LICENSE)
