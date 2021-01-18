@@ -1,8 +1,40 @@
-body{font-family:Nunito}
-.text-bordo{color:#73095c}
-.bg-dark{background:#0f3447!important}
+body{font-family:Nunito;position:relative;overflow-x:hidden;min-width:400px;width:auto !important;width:400px}
+.header-bg-triangle{z-index:-1;position:absolute;top:0;right:0}
+.footer-bg-triangle{z-index:-1;position:absolute;bottom:-300px;left:0}
+.title{margin-top:70px;padding:100px 0 220px 0}
+h1{font-size:50px}
+h1 span {display:inline-block;position:relative;font-weight:bold;animation:floating-letter 10s ease-in-out infinite alternate}
+h1 span:hover {animation:none}
+.triangle-t550{z-index:-1;position:relative;bottom:310px;right:60px;transform:rotate(-76deg);margin-bottom:-550px}
+.triangle-t120{z-index:1;position:relative;bottom:370px;left:-270px;transform:rotate(-63deg);margin-bottom:-100px}
+.triangle-t85{z-index:1;position:relative;bottom:-10px;left:290px;transform:rotate(30deg);margin-bottom:-70px}
+.triangle-t40{z-index:1;position:relative;bottom:350px;left:520px;transform:rotate(10deg)}
+.triangle-b70{z-index:1;position:absolute;bottom:-120px;right:90px;transform:rotate(25deg)}
+.stars{position:relative;top:10px;left:10px}
+.triangle-animated {animation:floating-corner 10s ease-in-out infinite alternate}
+@keyframes floating-letter{
+    0%,100%{transform:translate(0)} 
+    20% {transform:translate(1px,-3px)}
+    40% {transform:translate(4px,1px)}
+    80% {transform:translate(1px,4px)}
+}
+@keyframes floating-corner{
+    0%,100%{transform:translate(0)}
+    20% {transform:translate(6px,-8px) scale(.9)}
+    40% {transform:translate(10px,7px) scale(1)}
+    80% {transform:translate(6px,9px) scale(1)}
+}
+.d2 {animation-delay:2s}
+.d3 {animation-delay:3s}
+.d4 {animation-delay:4s}
+.d5 {animation-delay:5s}
+.d6 {animation-delay:6s}
+.d7 {animation-delay:7s}
+.d8 {animation-delay:8s}
+.bg-dark{background:#24292e!important}
 .demo{height:180px;position:relative;left:5px;overflow:hidden}
 .card{overflow:hidden;margin-top:1em}
 .ml-m5{margin-left:-5px}
 textarea{border:1px solid #eee;outline:0;position:relative;right:3px;font-family:"Courier New",monospace;font-size:11px}
-footer{width:100%;margin-top:25px;margin-bottom:100px;background:#F3F3F3;min-height:50px;padding:25px 15px;text-align:center;height:auto;line-height:30px}
+.share{width:100%;margin-bottom:100px;min-height:50px;padding:15px 0;text-align:right;height:auto;line-height:30px}
+footer{position:absolute;bottom:-300px;left:.75rem}
