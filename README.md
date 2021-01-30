@@ -13,6 +13,10 @@ License
 --------
 [The MIT License](LICENSE)
 
+Note
+--------
+This project is not sponsored by GitHub.
+
 By me a coffee
 --------------
 If you like 🧡 this project: 
