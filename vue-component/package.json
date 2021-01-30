@@ -1,0 +1,44 @@
+{
+  "name": "vue-gh-animated-corners",
+  "version": "0.0.2a3",
+  "description": "Several new animated variants of \"Fork me on GitHub\" or \"View source on GitHub\" link",
+  "main": "dist/vue-gh-animated-corners.umd.js",
+  "module": "dist/vue-gh-animated-corners.esm.js",
+  "unpkg": "dist/vue-gh-animated-corners.min.js",
+  "browser": {
+    "./sfc": "src/GhAnimatedCorner.vue"
+  },
+  "scripts": {
+    "dev": "vue serve src/GhAnimatedCorner.vue",
+    "build": "npm run build:umd & npm run build:es & npm run build:unpkg",
+    "build:umd": "rollup --config build/rollup.config.js --format umd --file dist/vue-gh-animated-corners.umd.js",
+    "build:es": "rollup --config build/rollup.config.js --format es --file dist/vue-gh-animated-corners.esm.js",
+    "build:unpkg": "rollup --config build/rollup.config.js --format iife --file dist/vue-gh-animated-corners.min.js"
+  },
+  "author": "Eugena Mikhaylikova <eugena.mihailikova@gmail.com>",
+  "homepage": "https://eugena.github.io/github-animated-corners",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugena/github-animated-corners/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugena/github-animated-corners.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-component",
+    "animation",
+    "github",
+    "corners"
+  ],
+  "devDependencies": {
+    "rollup": "^1.17.0",
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/plugin-commonjs": "^11.1.0",
+    "rollup-plugin-vue": "^5.0.1",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
