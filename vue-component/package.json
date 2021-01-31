@@ -1,6 +1,6 @@
 {
   "name": "vue-gh-animated-corners",
-  "version": "0.0.2a3",
+  "version": "0.0.2a4",
   "description": "Several new animated variants of \"Fork me on GitHub\" or \"View source on GitHub\" link",
   "main": "dist/vue-gh-animated-corners.umd.js",
   "module": "dist/vue-gh-animated-corners.esm.js",
